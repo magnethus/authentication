@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/magnethus/static/css/main.8ac1ba6f.chunk.css",
-    "main.js": "/magnethus/static/js/main.0c7407fa.chunk.js",
-    "main.js.map": "/magnethus/static/js/main.0c7407fa.chunk.js.map",
-    "runtime-main.js": "/magnethus/static/js/runtime-main.de17b8ce.js",
-    "runtime-main.js.map": "/magnethus/static/js/runtime-main.de17b8ce.js.map",
-    "static/js/2.ceb8feca.chunk.js": "/magnethus/static/js/2.ceb8feca.chunk.js",
-    "static/js/2.ceb8feca.chunk.js.map": "/magnethus/static/js/2.ceb8feca.chunk.js.map",
-    "index.html": "/magnethus/index.html",
-    "static/css/main.8ac1ba6f.chunk.css.map": "/magnethus/static/css/main.8ac1ba6f.chunk.css.map",
-    "static/js/2.ceb8feca.chunk.js.LICENSE.txt": "/magnethus/static/js/2.ceb8feca.chunk.js.LICENSE.txt"
+    "main.css": "/authentication/static/css/main.8ac1ba6f.chunk.css",
+    "main.js": "/authentication/static/js/main.0c7407fa.chunk.js",
+    "main.js.map": "/authentication/static/js/main.0c7407fa.chunk.js.map",
+    "runtime-main.js": "/authentication/static/js/runtime-main.ad998a63.js",
+    "runtime-main.js.map": "/authentication/static/js/runtime-main.ad998a63.js.map",
+    "static/js/2.ceb8feca.chunk.js": "/authentication/static/js/2.ceb8feca.chunk.js",
+    "static/js/2.ceb8feca.chunk.js.map": "/authentication/static/js/2.ceb8feca.chunk.js.map",
+    "index.html": "/authentication/index.html",
+    "static/css/main.8ac1ba6f.chunk.css.map": "/authentication/static/css/main.8ac1ba6f.chunk.css.map",
+    "static/js/2.ceb8feca.chunk.js.LICENSE.txt": "/authentication/static/js/2.ceb8feca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de17b8ce.js",
+    "static/js/runtime-main.ad998a63.js",
     "static/js/2.ceb8feca.chunk.js",
     "static/css/main.8ac1ba6f.chunk.css",
     "static/js/main.0c7407fa.chunk.js"
